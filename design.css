@@ -1,0 +1,16 @@
+body {
+    background-color: burlywood;
+}
+div {
+    padding: 40px;
+    width: 400px;
+    background-color: beige;
+    border-radius: 20%;
+    text-align: center;
+    font-size: 32px;
+    margin: 150px auto;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#end {
+    display: none;
+}
